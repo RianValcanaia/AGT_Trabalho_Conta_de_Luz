@@ -74,9 +74,9 @@ O sistema solicita as seguintes informações ao usuário para gerar a fatura:
 
 ## 📂 Como executar
 Para compilar e executar o programa, utilize o seguinte comando no seu terminal. A flag `-lm` é necessária para vincular a biblioteca matemática.
-
+```bash
 gcc trabalho.c -lm && ./a.out
-
+```
 
 [⬆ Voltar ao topo](#topo)
 
