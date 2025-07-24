@@ -18,7 +18,6 @@
 
 - [📌 Objetivos](#-objetivos)
 - [📥 Entradas do sistema](#-entradas-do-sistema)
-- [🧱 Estruturas de Dados](#-estruturas-de-dados)
 - [🛠️ Funcionalidades](#-funcionalidades)
 - [📊 Exemplo de Execução](#-exemplo-de-execução)
 - [📂 Como executar](#-como-executar)
