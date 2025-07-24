@@ -18,7 +18,7 @@
 
 - [📌 Objetivos](#-objetivos)
 - [📥 Entradas do sistema](#-entradas-do-sistema)
-- [🛠️ Funcionalidades](#-funcionalidades)
+- [🧰 Funcionalidades](#-funcionalidades)
 - [📊 Exemplo de Execução](#-exemplo-de-execução)
 - [📂 Como executar](#-como-executar)
 - [👨‍🏫 Envolvidos](#-envolvidos)
@@ -52,7 +52,7 @@ O sistema solicita as seguintes informações ao usuário para gerar a fatura:
 
 [⬆ Voltar ao topo](#topo)
 
-## 🛠️ Funcionalidades
+## 🧰 Funcionalidades
 
 ### 🔹 Funções Principais
 * `main()` : Contém todo o fluxo principal do programa. É responsável por exibir a tela inicial, entrar em um loop para processar múltiplos clientes, coletar todas as entradas, realizar os cálculos da fatura e da data de vencimento, e exibir o resultado formatado na tela.
